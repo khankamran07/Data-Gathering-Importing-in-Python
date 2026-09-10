@@ -1,4 +1,4 @@
-# Data Gathering & Importing in Python
+# Data Import in Python
 
 This section covers the fundamentals of **data gathering and data importing**, which is an important first step in the Data Analysis process. Before analyzing data, we need to collect data from different sources and load it into Python for further processing and analysis.
 
